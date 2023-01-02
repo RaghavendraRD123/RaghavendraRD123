@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 I’m currently learning Web Development in Masai School. </br>
-👩‍💻 Proficient in translating designs into high-quality code.
-📝 Writing application interface code via JavaScript , React JS and Chakra UI .
-🔎 Adept at monitoring & maintaining frontend performance.
-🛠 Troubleshooting & debugging to improve overall performancewith problem solving skills.
+👩‍💻 Proficient in translating designs into high-quality code. </br>
+📝 Writing application interface code via JavaScript , React JS and Chakra UI. </br>
+🔎 Adept at monitoring & maintaining frontend performance. </br>
+🛠 Troubleshooting & debugging to improve overall performancewith problem solving skills. </br>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=RaghavendraRD123&theme=radical)
