@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ![Raghavendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaghavendraRD123&show_icons=true&theme=tokyonight&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavendraRD123&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavendraRD123&layout=compact&count_private=true)](https://github.com/RaghavendraRD123)
 
 [![Raghavendra's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RaghavendraRD123&bg_color=98e6cc&color=1c1c1c&line=4c5a9e&point=171616&area=true&hide_border=true)](https://github.com/RaghavendraRD123)
 
