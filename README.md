@@ -39,11 +39,10 @@ Here are some ideas to get you started:
 <!-- <img src='' />
 <img src='' />
 <img src='' /> -->
-![Github stats](https://github-readme-stats.vercel.app/api?username=RaghavendraRD123&theme=radical)
 <img height="180em" src="https://camo.githubusercontent.com/010a34667bf23ff51f7fc93c0fdb6aab559ceccbcf9ce41c245cba1c8cb18a23/68747470733a2f2f6769746875622d726561646d652d73746174732d65696768742d74686574612e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d726f68697430393835266c61796f75743d636f6d70616374266c616e67735f636f756e743d38267468656d653d6275656679" data-canonical-src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RaghavendraRD123&amp;layout=compact&amp;langs_count=8&amp;theme=buefy" style="max-width: 100%;">
 
 ![Raghavendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaghavendraRD123&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavendraRD123&langs_count=8)](https://github.com/RaghavendraRD123/)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RaghavendraRD123&bg_color=98e6cc&color=1c1c1c&line=4c5a9e&point=171616&area=true&hide_border=true)](https://github.com/RaghavendraRD123)
+[!Raghavendra's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RaghavendraRD123&bg_color=98e6cc&color=1c1c1c&line=4c5a9e&point=171616&area=true&hide_border=true)](https://github.com/RaghavendraRD123)
 
