@@ -45,7 +45,6 @@ Here are some ideas to get you started:
 
 [![Raghavendra's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RaghavendraRD123&bg_color=98e6cc&color=1c1c1c&line=4c5a9e&point=171616&area=true&hide_border=true)](https://github.com/RaghavendraRD123)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaghavendraRD123&count_private=true)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit0985&theme=tokyonight) -->
 
