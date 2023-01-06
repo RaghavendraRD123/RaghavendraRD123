@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 👩‍💻 Proficient in translating designs into high-quality code. </br>
 📝 Writing application interface code via JavaScript , React JS and Chakra UI. </br>
 🔎 Adept at monitoring & maintaining frontend & backend performance. </br>
-🛠 Troubleshooting & debugging to improve overall performancewith problem solving skills. </br>
+🛠 Troubleshooting & debugging to improve overall performance with problem solving skills. </br>
 </br>
 </br>
 🛠  Languages and Tools </br></br>
