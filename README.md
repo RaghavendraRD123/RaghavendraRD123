@@ -48,5 +48,5 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavendraRD123&theme=tokyonight&count_private=true) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit0985&theme=tokyonight)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit0985&theme=tokyonight) -->
 
