@@ -46,3 +46,5 @@ Here are some ideas to get you started:
 
 [![Raghavendra's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RaghavendraRD123&bg_color=98e6cc&color=1c1c1c&line=4c5a9e&point=171616&area=true&hide_border=true)](https://github.com/RaghavendraRD123)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavendraRD123&theme=tokyonight)
+
