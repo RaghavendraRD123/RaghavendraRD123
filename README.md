@@ -9,7 +9,7 @@
 📫 How to reach me **raghavendrardeshabhandari@gmail.com**<br/>
 </br>
 </br>
-<!-- <h3 align="left">Languages and Tools:</h3> -->
+<h3 align="left">Languages and Tools:</h3>
 <img src='https://camo.githubusercontent.com/26a2d44d15ce047495fe82e6f07d5546a18d229326c87837ace066d930ee7385/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3333333333333f7374796c653d666c6174266c6f676f3d48544d4c35' />
 <img src='https://camo.githubusercontent.com/c38a05ab57aea563f73ae6b4aad7f556faa734d4077a7b52a2081b41ce27da40/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3333333333333f7374796c653d666c6174266c6f676f3d43535333266c6f676f436f6c6f723d313537324236' />
 <br/>
