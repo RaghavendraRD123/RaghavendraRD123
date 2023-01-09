@@ -34,6 +34,8 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/raghavendra-db/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raghavendra-db/" height="30" width="40" /></a>
 </p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raghavendrard123&" alt="raghavendrard123" /></p>
+
 ![Raghavendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaghavendraRD123&show_icons=true&theme=tokyonight&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavendraRD123&layout=compact&count_private=true)](https://github.com/RaghavendraRD123)
@@ -60,5 +62,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raghavendrard123&show_icons=true&locale=en" alt="raghavendrard123" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raghavendrard123&" alt="raghavendrard123" /></p>
+
 
