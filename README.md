@@ -9,7 +9,6 @@
 📫 How to reach me **raghavendrardeshabhandari@gmail.com**<br/>
 </br>
 </br>
-![Raghavendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaghavendraRD123&show_icons=true&theme=tokyonight&count_private=true)
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 <img src='https://camo.githubusercontent.com/26a2d44d15ce047495fe82e6f07d5546a18d229326c87837ace066d930ee7385/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3333333333333f7374796c653d666c6174266c6f676f3d48544d4c35' />
 <img src='https://camo.githubusercontent.com/c38a05ab57aea563f73ae6b4aad7f556faa734d4077a7b52a2081b41ce27da40/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3333333333333f7374796c653d666c6174266c6f676f3d43535333266c6f676f436f6c6f723d313537324236' />
@@ -29,6 +28,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavendrard123&label=Profile%20views&color=0e75b6&style=flat" alt="raghavendrard123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raghavendrard123" alt="raghavendrard123" /></a> </p>
+
+![Raghavendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaghavendraRD123&show_icons=true&theme=tokyonight&count_private=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
