@@ -26,10 +26,9 @@
 <img src='https://camo.githubusercontent.com/194ae9b0be9bfd4caedab16de320d3987f4c144112461590a206262d21eb769b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3333333333333f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343' />
 <br/>
 
-<!-- <img src='' />
-<img src='' />
-<img src='' /> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavendrard123&label=Profile%20views&color=0e75b6&style=flat" alt="raghavendrard123" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raghavendrard123" alt="raghavendrard123" /></a> </p>
 
 ![Raghavendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaghavendraRD123&show_icons=true&theme=tokyonight&count_private=true)
 
@@ -43,9 +42,10 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavendrard123&label=Profile%20views&color=0e75b6&style=flat" alt="raghavendrard123" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raghavendrard123" alt="raghavendrard123" /></a> </p>
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
