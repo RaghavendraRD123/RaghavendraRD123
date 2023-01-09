@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hi 👋, I'm Raghavendra RD</h1>
+<h1 align="center">Hi 👋, I'm Raghavendra RD</h1>
 <h3 align="center">Full Stack Web Developer</h3
 🌱 I’m currently learning **MongoDB** </br>
 👩‍💻 Proficient in translating designs into high-quality code. </br>
@@ -8,7 +8,7 @@
 👨‍💻 All of my projects are available at [https://raghavendrard123.github.io/](https://raghavendrard123.github.io/) </br>
 📫 How to reach me **raghavendrardeshabhandari@gmail.com**<br/>
 </br>
-<h3 align="left">Languages and Tools:</h3> -->
+<h3 align="left">Languages and Tools:</h3>
 
 <div>
     <img src='https://camo.githubusercontent.com/26a2d44d15ce047495fe82e6f07d5546a18d229326c87837ace066d930ee7385/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3333333333333f7374796c653d666c6174266c6f676f3d48544d4c35' />
