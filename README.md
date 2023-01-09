@@ -1,26 +1,12 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Raghavendra RD</h1>
-<h3 align="center">Full Stack Web Developer</h3>
-<!--
-**RaghavendraRD123/RaghavendraRD123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<h3 align="center">Full Stack Web Developer</h3
+<!-- 
 - 🌱 I’m currently learning **MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://raghavendrard123.github.io/](https://raghavendrard123.github.io/)
 
-- 📫 How to reach me **raghavendrardeshabhandari@gmail.com**
+- 📫 How to reach me **raghavendrardeshabhandari@gmail.com** -->
 
 🌱 I’m currently learning Web Development in Masai School. </br>
 👩‍💻 Proficient in translating designs into high-quality code. </br>
