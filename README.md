@@ -1,12 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Raghavendra RD</h1>
 <h3 align="center">Full Stack Web Developer</h3
-<!-- 
-- 
-
-- 
-
--  -->
 🌱 I’m currently learning **MongoDB** </br>
 👩‍💻 Proficient in translating designs into high-quality code. </br>
 📝 Writing application interface code via JavaScript , React JS and Chakra UI. </br>
