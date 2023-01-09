@@ -2,17 +2,18 @@
 <h1 align="center">Hi 👋, I'm Raghavendra RD</h1>
 <h3 align="center">Full Stack Web Developer</h3
 <!-- 
-- 🌱 I’m currently learning **MongoDB**
+- 
 
-- 👨‍💻 All of my projects are available at [https://raghavendrard123.github.io/](https://raghavendrard123.github.io/)
+- 
 
-- 📫 How to reach me **raghavendrardeshabhandari@gmail.com** -->
-
-🌱 I’m currently learning Web Development in Masai School. </br>
+-  -->
+🌱 I’m currently learning **MongoDB** </br>
 👩‍💻 Proficient in translating designs into high-quality code. </br>
 📝 Writing application interface code via JavaScript , React JS and Chakra UI. </br>
 🔎 Adept at monitoring & maintaining frontend & backend performance. </br>
 🛠 Troubleshooting & debugging to improve overall performance with problem solving skills. </br>
+👨‍💻 All of my projects are available at [https://raghavendrard123.github.io/](https://raghavendrard123.github.io/) </br>
+📫 How to reach me **raghavendrardeshabhandari@gmail.com**<br/>
 </br>
 </br>
 🛠  Languages and Tools </br> </br>
