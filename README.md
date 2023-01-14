@@ -35,7 +35,7 @@
 <div>
    <img src='https://i.pinimg.com/736x/b3/7b/05/b37b05a713d8eebcbb475119e587859b.jpg' alt='Linkedin' style="width:100px;" />
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/raghavendra-db/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raghavendra-db/" height="30" width="40" /></a>
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raghavendra-db/" height="300" width="400" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavendrard123&label=Profile%20views&color=0e75b6&style=flat" alt="raghavendrard123" /> </p>
