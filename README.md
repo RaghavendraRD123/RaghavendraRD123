@@ -34,7 +34,7 @@
 <p align="left">
 <div>
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/raghavendra-db/" target="blank">
-        <img src='https://i.pinimg.com/236x/b0/28/c2/b028c2e59043116dfc0da6ec6fd26d70.jpg' alt='Linkedin' style="width:40px;" />
+        <img src='https://i.pinimg.com/236x/d9/d9/5e/d9d95ee468e97317a201ef33b02067ac.jpg' alt='Linkedin' style="width:40px;" />
          :  https://linkedin.com/in/https://www.linkedin.com/in/raghavendra-db/
     </a>
 </p>
