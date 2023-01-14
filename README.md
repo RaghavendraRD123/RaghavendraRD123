@@ -33,9 +33,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <div>
-   <img src='https://i.pinimg.com/736x/b3/7b/05/b37b05a713d8eebcbb475119e587859b.jpg' alt='Linkedin' style="width:100px;" />
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/raghavendra-db/" target="blank">
-<!--         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raghavendra-db/" height="300" width="400" /> -->
+        <img src='https://i.pinimg.com/236x/b0/28/c2/b028c2e59043116dfc0da6ec6fd26d70.jpg' alt='Linkedin' style="width:100px;" />
+        https://linkedin.com/in/https://www.linkedin.com/in/raghavendra-db/
     </a>
 </p>
 
