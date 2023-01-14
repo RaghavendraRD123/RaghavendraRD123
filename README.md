@@ -33,7 +33,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <div>
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/raghavendra-db/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raghavendra-db/" height="30" width="40" /></a>
+    <img src='https://i.pinimg.com/736x/b3/7b/05/b37b05a713d8eebcbb475119e587859b.jpg' />
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/raghavendra-db/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raghavendra-db/" height="30" width="40" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavendrard123&label=Profile%20views&color=0e75b6&style=flat" alt="raghavendrard123" /> </p>
@@ -50,21 +52,3 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavendraRD123&layout=compact&count_private=true)](https://github.com/RaghavendraRD123) -->
 
 [![Raghavendra's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RaghavendraRD123&bg_color=98e6cc&color=1c1c1c&line=4c5a9e&point=171616&area=true&hide_border=true)](https://github.com/RaghavendraRD123)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
