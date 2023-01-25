@@ -5,7 +5,7 @@
 📝 Writing application interface code via JavaScript , React JS and Chakra UI. </br>
 🔎 Adept at monitoring & maintaining frontend & backend performance. </br>
 🛠 Troubleshooting & debugging to improve overall performance with problem solving skills. </br>
-👨‍💻 All of my projects are available at [https://raghavendrard123.github.io/](https://raghavendrard123.github.io/) </br>
+👨‍💻 All of my projects are available at https://raghavendrard123.github.io/ </br>
 📫 How to reach me **raghavendrardeshabhandari@gmail.com**<br/>
 </br>
 <h3 align="left">Languages and Tools:</h3>
